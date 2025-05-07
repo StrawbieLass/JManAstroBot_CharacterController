@@ -1,4 +1,4 @@
-[BETA]
+[Release]
 
 This Character controller was developed by Emily Harman for "Journey Man 2025 - New Worlds" based on the movement and actions from the game "AstroBot (2024)"
 
